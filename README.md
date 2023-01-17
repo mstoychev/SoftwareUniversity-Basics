@@ -1,2 +1,2 @@
 # SoftwareUniversity-Basics
-My first exercises with Js and Python
+In this repository there are solutions to tasks from the programming basic course of the software academy of SoftUni University.
